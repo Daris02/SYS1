@@ -1,4 +1,3 @@
-VSFTPD
 Guide d'installation  de FTP server (vsftpd) sur Ubuntu
 
 Installation : En tapant les commandes suivant sur le terminal :
