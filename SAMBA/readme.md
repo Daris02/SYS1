@@ -1,5 +1,5 @@
-SAMBA
 Ceci est guide d'installation du serveur fichier Samba
+
 Installation : Suivre les commande ci-dessous :
 		sudo apt-get install samba
 		apt install samba
