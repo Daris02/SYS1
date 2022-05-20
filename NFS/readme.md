@@ -1,3 +1,5 @@
+#NFS
+
 C'est un protocole permettant à un ordinateur d'accéder à des fichier extérieurs via un réseau.
 
 Pour créer un partage NFS sous Debian, il faut avoir au moins deux machines :
