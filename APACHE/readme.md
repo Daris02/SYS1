@@ -47,6 +47,7 @@ NB : le nom du domain dépend de votre choix
 
 	- Ouvrir le navigateur et entrer l'URL du site web 
 		http://yourdomain.com
+		
 Il peut être également tester grâce à l'adresse IP du serveur.
 Et il est bien de noter que maintenant vous pouvez l'utiliser à votre guise en modifiant 
 seulement le fichier "index.html" ou en ajoutant d'autre élément à votre configuration.
