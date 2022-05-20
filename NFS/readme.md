@@ -33,4 +33,5 @@ Installation : il faut taper les commandes suivant sur le terminal :
 2- Vérification du connexion NFS
 Taper les commandes suivant :
 		shownount -e #adresse ip du serveur
+		
 Cel devrais afficher le fichier de partage avec l'adresse IP du client.
