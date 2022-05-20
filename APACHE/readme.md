@@ -3,12 +3,14 @@ Ceci est un guide pour l'installation et les configurations de fonctionnement d'
 Pour celà vous devez suivre les instruction suivant :
 
 1- L'installation 
+
 Entrer les commandes suivants :
 		sudo apt update (pour le mise à jour de votre système)
 		sudo apt install apache2 (pour installer les packages de apache2)
 Et grâce à l' "apt" toutes les dépendances lier à apache serant également installer avec.
 
 2- Vérification du server Web
+
 Pour vérifier si votre serveur web fonctionne, taper : 
 		sudo systemctl status apache2
 Il devraient sortir plusieur ligne et sur la ligne "Active" doit afficher " active (running) "
@@ -17,6 +19,7 @@ ainsi vous obtiendriez quelque adresse séparées par des éspaces et essayer ch
 La page web a comme titre "Apache2 Ubuntu Default Page".
 
 3- Configurtion du serveur web pour le domains
+
 Le répertoire de configuration d'Apache et "/etc/apache2 " et "apache2.conf "est le fichier de configarution principal.
 Chaque domaine a besoin de son propre fichier de configuration d'hôte virtuel, ces fichier utilise l'extension ".conf" 
 et doivent être enregistrés dans le répertoire "/etc/apache2/sites-avaible/".
